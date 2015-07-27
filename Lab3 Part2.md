@@ -46,13 +46,13 @@ The wizard opens on the Select Engine page.
 
 ![10](https://cloud.githubusercontent.com/assets/13193749/8902275/2c3724ea-346d-11e5-80f2-1635dd57bbd7.png)
 
-8.Click Launch DB Instance to create your MySQL DB instance.
+9.Click Launch DB Instance to create your MySQL DB instance.
 
 ![11](https://cloud.githubusercontent.com/assets/13193749/8902277/2c3c5ac8-346d-11e5-9e35-c139d331fb5b.png)
 
-9.On the final page of the wizard, click Close. 
+10.On the final page of the wizard, click Close. 
 
-10.On the Amazon RDS console, the new DB instance appears in the list of DB instances. The DB instance will have a status of creating until the DB instance is created and ready for use. When the state changes to available, you can connect to the DB instance. Depending on the DB instance class and store allocated, it could take several minutes for the new instance to be available.
+11.On the Amazon RDS console, the new DB instance appears in the list of DB instances. The DB instance will have a status of creating until the DB instance is created and ready for use. When the state changes to available, you can connect to the DB instance. Depending on the DB instance class and store allocated, it could take several minutes for the new instance to be available.
 
 ![12](https://cloud.githubusercontent.com/assets/13193749/8902279/2c413afc-346d-11e5-923d-1bebd67a17d7.png)
 
@@ -62,7 +62,7 @@ The wizard opens on the Select Engine page.
 
 ![15](https://cloud.githubusercontent.com/assets/13193749/8902281/2c44b916-346d-11e5-8614-823ab0d2251c.png)
 
-11.Deleting a DB Instance
+12.Deleting a DB Instance
 
 ![16](https://cloud.githubusercontent.com/assets/13193749/8902282/2c4a76e4-346d-11e5-860b-0cb5d806e3a7.png)
 
